@@ -4,7 +4,8 @@ from run import train, test
 import argparse
 
 parser = argparse.ArgumentParser()
-# world
+#hello  world
+# hi 
 glove_word_file = "glove.840B.300d.txt"
 
 word_emb_file = "word_emb.json"
