@@ -2,9 +2,9 @@ import os
 from prepro import prepro
 from run import train, test
 import argparse
-#here is the comment2
-parser = argparse.ArgumentParser()
 
+parser = argparse.ArgumentParser()
+#hello world
 glove_word_file = "glove.840B.300d.txt"
 
 word_emb_file = "word_emb.json"
