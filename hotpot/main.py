@@ -2,7 +2,11 @@ import os
 from prepro import prepro
 from run import train, test
 import argparse
+<<<<<<< HEAD
 #here is the comment 1
+=======
+#here is the comment2
+>>>>>>> upstream/master
 parser = argparse.ArgumentParser()
 
 glove_word_file = "glove.840B.300d.txt"
