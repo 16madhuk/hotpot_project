@@ -3,10 +3,14 @@ from prepro import prepro
 from run import train, test
 import argparse
 <<<<<<< HEAD
+<<<<<<< HEAD
 #here is the comment 1
 =======
 #here is the comment2
 >>>>>>> upstream/master
+=======
+#here is the comment1
+>>>>>>> 8d304767ad36da1c030bf7b438a87d01b0922f8c
 parser = argparse.ArgumentParser()
 
 glove_word_file = "glove.840B.300d.txt"
